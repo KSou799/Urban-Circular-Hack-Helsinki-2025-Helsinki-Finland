@@ -66,15 +66,14 @@ Every evening around **7 pm**, Helsinki experiences a **sharp electricity spik
 - **Systems Engineering Thinking** – Urban infrastructure optimization modeling  
 - **Decision-Support Tool Design** – Translating engineering analysis into actionable insights
 
-## Run the Simulator
+## Author
+**Sou Komiya**  
+Mechanical Engineering Student – Metropolia UAS  
+December 2025
 
+## Run the Simulator
 ```bash
 git clone https://github.com/KSou799/Urban-Circular-Hack-Helsinki-2025-Helsinki-Finland.git
 cd Urban-Circular-Hack-Helsinki-2025-Helsinki-Finland
 python Hackathon_energy.py
-
-## Author
-**Sou Komiya**  
-Mechanical Engineering Student – Metropolia UAS  
-January 2026
 
