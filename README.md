@@ -42,6 +42,9 @@ Every evening around **7 pm**, Helsinki sees a **sharp electricity spike**. Ever
 The top graph shows the peak. The bottom shows flattened demand after smart scheduling.
 
 ---
+## Python + tkinter (standard library only)
+License
+## MIT — free to use and modify
 
 ## Run the Simulator
 
@@ -51,9 +54,4 @@ The top graph shows the peak. The bottom shows flattened demand after smart sche
 git clone https://github.com/KSou799/Urban-Circular-Hack-Helsinki-2025-Helsinki-Finland.git
 cd Urban-Circular-Hack-Helsinki-2025-Helsinki-Finland
 python Hackathon_energy.py
-Built With
 
-Python + tkinter (standard library only)
-License
-
-MIT — free to use and modify
