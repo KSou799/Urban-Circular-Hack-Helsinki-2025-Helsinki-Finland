@@ -84,15 +84,6 @@ The Grid/Price slider controls the weighting between the two signals. The Flex p
 
 ---
 
-## Repository Structure
-
-```
-flexicity.py      # Single-file application — model, scheduler, and UI
-README.md
-```
-
----
-
 ## Design Decisions and Limitations
 
 - **Units:** Loads are in kW. The base grid load is in MW-scale arbitrary units. The combined demand curve is a relative index suitable for comparison, not an absolute MW figure calibrated to the real Finnish grid.
