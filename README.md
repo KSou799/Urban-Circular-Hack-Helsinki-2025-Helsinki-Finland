@@ -2,7 +2,7 @@
 
 > Shift flexible electricity loads to flatten Helsinki's evening demand spike — and see the grid, cost, and CO₂ impact in real time.
 
-![FlexiCity Screenshot](screenshot.png)
+![FlexiCity Screenshot](screenshot.pn)
 
 ---
 
