@@ -77,8 +77,6 @@ python flexicity.py
 
 The Grid/Price slider controls the weighting. The Flex participation slider scales how much of each load actually shifts.
 
-> **Note:** This is a greedy weighted heuristic, not a global optimiser. It is fast and transparent, and sufficient for interactive simulation. A production district energy management system would co-optimise all loads simultaneously.
-
 ---
 
 ## Data Sources and Limitations
